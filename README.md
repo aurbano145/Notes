@@ -1,1 +1,1 @@
-# Install JQuery (npm install jquery) and JQueryUI (npm install jquery-ui).
+Install JQuery (npm install jquery) and JQueryUI (npm install jquery-ui).
